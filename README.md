@@ -1,5 +1,9 @@
-Haarini Balakrishnan portfolio website
+# Haarini Balakrishnan — Professional Portfolio
 
-Open index.html to view the homepage and artifact-01.html for the completed visual Professional Assessment. The artifact is adapted from a group assessment and distinguishes group work from Haarini’s own examples.
+Updated version with Artifact 01 (Professional Assessment), Artifact 02 (DSO Daddy AI Lab), a clearly labeled Personal Value Proposition, Skills & Expertise, and rubric-aligned Tools & Technologies / Value Proposition sections.
 
-To publish: upload the website folder to a static host such as GitHub Pages or Netlify. Add personal photos once supplied. Reflections belong in Brightspace, not on the website.
+## Publish
+Upload the contents of this folder (not the enclosing folder or ZIP) to the root of the existing `HaariniBalakrishnan/haarini-portfolio` GitHub repository on `main`. Commit changes, wait for GitHub Pages deployment, and verify `index.html` and `artifact-02.html` plus the screenshot.
+
+## Notes
+The DSO Daddy project is collaborative student work and not an official IWU service or legal advice. The separate assignment reflection belongs in Brightspace, not on the public website.
